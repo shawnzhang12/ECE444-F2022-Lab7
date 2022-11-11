@@ -1,6 +1,7 @@
 
 This lab was done using AWS Elastic Beanstalk and Postman for API testing.
-Site can be found at :[http://servesentiment-env.eba-6yjcdapg.us-east-2.elasticbeanstalk.com/](http://servesentiment-env.eba-6yjcdapg.us-east-2.elasticbeanstalk.com/)
+
+Site can be found at : [http://servesentiment-env.eba-6yjcdapg.us-east-2.elasticbeanstalk.com/](http://servesentiment-env.eba-6yjcdapg.us-east-2.elasticbeanstalk.com/)
 
 
 **Postman API Call Testing Screenshots**
